@@ -9,10 +9,11 @@ Site comercial desenvolvido para loja de artigos esportivos de skate.
 
 ## :hammer_and_wrench: Features:
 
--   [ ] Construção de um site;
+-   [ ] Construção de um site web/mobile responsivo;
 -   [ ] Empregando e Identificando elementos através do figma;
--   [ ] criação de um repositorio para armazenar o projeto;
--   [ ] Realização de deploy de um site através do Github Pages/Vercel;
+-   [ ] Relação do flexbox e posicionamento de elementos;
+-   [ ] Utilização da propriedade Grid;
+-   [ ] Produção de Layout com as propriedades grid;
 
 
 
