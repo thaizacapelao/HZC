@@ -16,7 +16,6 @@ Site comercial desenvolvido para loja de artigos esportivos de skate.
 -   [ ] Produção de Layout com as propriedades grid;
 
 
-
 ## ✨ Linguagens utilizadas:
 
 -   [ ] HTML.
